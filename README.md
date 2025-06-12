@@ -118,8 +118,3 @@ MIT License. Free to use and modify.
 
 Pull requests and suggestions are welcome!
 
----
-
-## 📞 Contact
-
-Made with ❤️ by [Your Name]
